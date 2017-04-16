@@ -1,0 +1,23 @@
+{
+  "name": "panup",
+  "description": "A professional site for chefs",
+  "main": "index.html",
+  "authors": [
+    "achuth.hadnoor"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ooking",
+    "resipes",
+    "steak"
+  ],
+  "homepage": "https://github.com/achuthhadnoor/support.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
