@@ -8,26 +8,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achuthhadnoor/support.io.git"
+    "url": "git+https://github.com/achuthhadnoor/panup.git"
   },
   "keywords": [
-    "ooking",
-    "resipes",
+    "Cooking",
+    "recipes",
     "steak"
   ],
   "author": "achuth.hadnoor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/achuthhadnoor/support.io/issues"
+    "url": "https://github.com/achuthhadnoor/panup/issues"
   },
   "homepage": "https://github.com/achuthhadnoor/support.io#readme",
   "devDependencies": {
-    "angular": "^1.6.4",
-    "bower": "^1.8.0",
     "browser-sync": "^2.18.8",
+    "bower": "^1.8.0",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0",
     "watch": "^1.0.2",
     "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "firebase": "^3.7.8"
   }
 }

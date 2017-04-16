@@ -7,11 +7,11 @@
   ],
   "license": "MIT",
   "keywords": [
-    "ooking",
-    "resipes",
+    "Cooking",
+    "recipes",
     "steak"
   ],
-  "homepage": "https://github.com/achuthhadnoor/support.io",
+  "homepage": "https://github.com/achuthhadnoor/panup",
   "private": true,
   "ignore": [
     "**/.*",
@@ -19,5 +19,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angularfire": "^2.3.0"
+    "angular":"latest"
+  }
 }
